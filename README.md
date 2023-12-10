@@ -12,7 +12,7 @@ Foram feitas algumas alterações no código em relação ao apresentado na aula
    - Siga as instruções para fornecer o caminho do arquivo ou diretório a ser criptografado.
 
 2. **Descriptografando os Arquivos:**
-   - Para desfazer o caos, execute `python decrypter.py`.
+   - Para desfazer a criptografia, execute `python decrypter.py`.
    - Novamente, siga as instruções para especificar o alvo da descriptografia.
 
 ## Ferramentas Utilizadas
