@@ -1,6 +1,6 @@
 # Desafio Ransomware da DIO
 
-Bem-vindo ao repositório do Desafio Ransomware da DIO, foi criada uma ferramenta para praticar as técnicas de desenvolvimento de Ransomware para aprendizado! Este projeto, desenvolvido por mim, Albino Marques, acompanhando o Bootcamp da DIO de CyberSegurança em parceria com o Santander(Santander Bootcamp Cibersegurança) permite criptografar arquivos e diretórios idealmente de teste, para compreender os riscos deste tipo de ferramentas, podendo, se for mal intencionado, manter como refém os dados até que suas demandas sejam atendidas.
+Bem-vindo ao repositório do Desafio Ransomware da DIO, foi criada uma ferramenta para praticar as técnicas de desenvolvimento de Ransomware para aprendizado! Este projeto, desenvolvido por mim, Albino Marques, acompanhando o Bootcamp da DIO de Cibersegurança em parceria com o Santander(Santander Bootcamp Cibersegurança) permite criptografar arquivos e diretórios idealmente de teste, para compreender os riscos deste tipo de ferramentas, podendo, se for mal intencionado, manter como refém os dados até que suas demandas sejam atendidas.
 Foram feitas algumas alterações no código em relação ao apresentado na aula para poder dar mais personalidade ao mesmo enquanto modularizava um pouco mais a o código com funções.
 
 ## Como Usar
